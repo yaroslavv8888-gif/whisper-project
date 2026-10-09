@@ -1,0 +1,16 @@
+# Модели whisper и аудио
+*.bin
+*.ogg
+*.opus
+*.wav
+*.mp3
+
+# Папки сборки и кэш
+build/
+bin/
+*.exe
+*.obj
+*.lib
+
+# Служебные файлы и большие текстовые логи
+transcription_result.txt
